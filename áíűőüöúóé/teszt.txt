@@ -1,0 +1,6 @@
+Ez egy teszt
+Több sora van
+Itt majd megpróbálok confliktot okozni
+Lehet hogy itt is lesz baj
+Itt már nem fogom módosítani a fájl tartalmát
+És itt sem
